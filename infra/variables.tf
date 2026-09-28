@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   description = "Nome do Resource Group"
   type        = string
-  default     = "rg-vm-automation"
+  default     = "rg-tfstate"
 }
 
 variable "location" {
